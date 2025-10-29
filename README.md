@@ -6,3 +6,7 @@ The purpose of this lab exam is to assess my understanding of Git, UI/UX prototy
 
 git add README.md
 git commit -m
+
+
+git add .
+git commit -m
